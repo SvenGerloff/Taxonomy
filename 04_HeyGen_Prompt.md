@@ -1,51 +1,34 @@
 # Result for Step: 04_HeyGen_Prompt
 
-Create a 50-second AI avatar video introduction for a professional VET training module. Use a modern, confident presenter in business-casual attire, with a clean neutral background or subtle ocean-inspired gradient. Delivery style: cinematic, high-energy, punchy, TED Talk x Netflix x LinkedIn viral video. The avatar is a credible industry expert speaking directly to fishing and aquaculture professionals with practical experience and no prior knowledge of the EU Taxonomy. Tone must be urgent, inspiring, and direct. Use dynamic pacing, short sentences, and strategic pauses. Embed emotion/performance cues inline exactly like this: [URGENT], [INSPIRATIONAL], [DIRECT], [PAUSE 0.5s], [SPEED UP].
+Create a 50-second AI avatar intro video for a professional VET training module. Use a modern, confident industry expert avatar in business-casual attire. Background: clean neutral studio or subtle ocean-inspired gradient. Delivery style: HIGH-ENERGY, cinematic, punchy, TED Talk x Netflix x LinkedIn viral. The avatar is not a professor — they are a sharp, credible aquaculture leader speaking directly to fishing and aquaculture professionals with no prior knowledge of the EU Taxonomy. Use dynamic pacing, strong eye contact, and clear emphasis.
 
-Important constraints:
-- Total runtime: EXACTLY 50 seconds
-- Word count target: 130–140 words
-- Structure must follow these time blocks exactly:
-  - [0–5 sec] Hook
-  - [5–20 sec] Problem
-  - [20–35 sec] Solution tease
-  - [35–48 sec] Climax/call to action
-  - [48–50 sec] Outro beat
-- Include concise on-screen text overlay suggestions in parentheses after relevant lines.
+Use this exact script and timing:
 
-Use this exact script:
+[0–5 sec] HOOK  
+[URGENT] Your farm has 18 months. [PAUSE 0.5s] Will it survive Europe’s green financing revolution?  
+On-screen text: “18 months?” / “EU Green Financing”
 
-[0–5 sec]  
-[URGENT] Your farm has 18 months. Will it lead the green transition… or lose access to the finance that keeps it moving? [PAUSE 0.5s]  
-(On-screen text: “18 months.” / “EU Green Transition” / “Finance at risk”)
+[5–20 sec] PROBLEM  
+[DIRECT] In aquaculture, profit is no longer enough. To unlock green investment, your facility must prove it meets the EU Taxonomy — six environmental objectives, one strict rule: contribute to one, harm none. [PAUSE 0.5s] Fail this test, and financing, trust, and future growth are at risk.  
+On-screen text: “EU Taxonomy” / “6 Objectives” / “Do No Significant Harm”
 
-[5–20 sec]  
-[DIRECT] At this Mediterranean fish farm, profit is no longer enough. To secure green financing, the facility must prove it aligns with the EU Taxonomy — Europe’s sustainability rulebook. [PAUSE 0.5s]  
-[URGENT] One test decides everything: make a substantial contribution to at least one of six environmental objectives, and do no significant harm to the rest.  
-(On-screen text: “EU Taxonomy” / “6 Environmental Objectives” / “Do No Significant Harm”)
+[20–35 sec] SOLUTION TEASE  
+[SPEED UP] Now the audit begins. Energy. Hatchery. Waste. Seabed. [PAUSE 0.5s] Cut diesel with solar-wind hybrids. Reuse 95% of water with RAS. Turn sludge into biogas and fertilizer. Restore Posidonia with sensors and fallowing. [INSPIRATIONAL] Six objectives. Four critical zones. One action plan.  
+On-screen text: “Zone A: Energy” / “Zone B: Hatchery” / “95% Water Reuse” / “Zone C: Waste to Biogas” / “Zone D: Biodiversity”
 
-[20–35 sec]  
-[SPEED UP] Now the audit begins. Zone A: cut emissions with solar-wind power and climate-resilient moorings. Zone B: reuse 95% of hatchery water with RAS. Zone C: turn sludge into biogas and fertilizer. Zone D: protect the seabed with sensors and fallowing, so Posidonia meadows recover.  
-(On-screen text: “Zone A Energy” / “Zone B Water” / “Zone C Circular Waste” / “Zone D Biodiversity” / “95% Water Reuse”)
+[35–48 sec] CLIMAX/CALL TO ACTION  
+[INSPIRATIONAL] This is not red tape. This is your competitive edge. Reduce carbon by 40%. Achieve zero nutrient discharge. Secure green financing. Create green jobs. [DIRECT] Step into the Facility Manager role — and build the Taxonomy Action Plan that proves your farm is future-ready. Start now.  
+On-screen text: “-40% Carbon” / “Zero Nutrient Discharge” / “Green Financing Secured” / “Start Now”
 
-[35–48 sec]  
-[INSPIRATIONAL] This is not paperwork. This is your Taxonomy Action Plan. Lower carbon. Zero nutrient discharge. Stronger biodiversity. Lower energy costs. New green jobs. Investor confidence. [PAUSE 0.5s]  
-[DIRECT] Start now — and turn compliance into competitive advantage.  
-(On-screen text: “-40% Carbon Footprint” / “Zero Nutrient Discharge” / “+15% Seagrass Density” / “Green Financing Secured”)
+[48–50 sec] OUTRO BEAT  
+[PAUSE 0.5s] Future-proof aquaculture.  
+On-screen text: “Module 4: EU Taxonomy” / “Future-proof aquaculture”
 
-[48–50 sec]  
-[INSPIRATIONAL] Lead.  
-(On-screen text: “Module 4: The EU Taxonomy” / Logo hold)
-
-Voice direction:
-- Strong opening punch
-- Slight pause after “18 months”
-- Increase pace in the zone sequence
-- Land “This is not paperwork” with emphasis
-- Final word “Lead” should be clean, confident, and memorable
-
-Visual direction:
-- Use subtle motion graphics and fast-cut B-roll feel
-- Suggested visuals: sea cages at dawn, hatchery systems, solar-wind hybrid power, sludge-to-biogas process, benthic sensors, seagrass meadow recovery, investor dashboard
-- Keep text overlays bold, minimal, and readable
-- End with logo hold on the final word
+Additional production notes:
+- Total runtime must be EXACTLY 50 seconds.
+- Keep delivery around 130–140 words total.
+- Use confident, direct facial expression and energetic voice.
+- Add subtle cinematic whoosh transitions between sections.
+- Emphasize these keywords vocally: “EU Taxonomy,” “harm none,” “95%,” “40%,” “green financing,” “future-ready.”
+- Suggested B-roll style: sea cages at dawn, hatchery tanks, turbine/solar visuals, sludge processing, seabed seagrass monitoring, investor presentation dashboard.
+- Final frame: hold logo/title card for 2 seconds with clean audio sting.
