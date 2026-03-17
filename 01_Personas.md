@@ -2,21 +2,24 @@
 
 [
   {
-    "name": "Lars Jensen",
-    "role": "Small-scale Fishing Vessel Skipper / Team Lead",
-    "learning_needs": "Practical, no-jargon introduction to what the EU Taxonomy means for daily fishing operations: explain the six environmental objectives in plain language and show concrete examples tied to fuel use, gear choices, bycatch reduction, and handling of discarded biomass. Needs quick decision aids (checklists, on-deck posters), simple measurement actions (fuel logs, catch reporting steps) and short on-board exercises that translate taxonomy concepts into routine tasks and choices so he can supervise crew and answer buyers/bank questions without needing legal language.",
+    "name": "Miguel Santos Pereira",
+    "role": "Offshore Sea Bass Farm Operations Manager",
+    "learning_needs": "Miguel runs a busy offshore farm and is judged on survival rates, feed efficiency, maintenance, and keeping production on schedule. He needs a plain-language understanding of what the EU Taxonomy is, why customers, banks, and buyers may start asking about it, and how it connects to everyday farm decisions such as waste handling, energy use, and environmental monitoring. He learns best when concepts are tied to real operational choices rather than policy language. For Miguel, the value of learning is being able to explain his farm's practices clearly, spot where the business may need to adapt, and avoid being caught off guard by new expectations.",
+    "key_fear": "His biggest fear is that new sustainability rules will create paperwork and costs for farms like his without recognizing the practical realities of producing fish at sea.",
     "is_primary_target": true
   },
   {
-    "name": "Maria Santos",
-    "role": "Land-based Aquaculture Facility Manager",
-    "learning_needs": "Clear, applied guidance linking the EU Taxonomy's six objectives to farm upgrades, permits and financing: plain-language definitions (e.g., 'substantial contribution' and 'do no significant harm') with realistic KPIs (energy per kg produced, nutrient discharge per m3, % waste valorized). Needs worked examples, simple calculation templates, before/after impact visualizations, and a template checklist to prepare investment proposals and communicate sustainability claims to buyers and lenders.",
+    "name": "Elżbieta Nowak",
+    "role": "Hatchery Production Supervisor",
+    "learning_needs": "Elżbieta supervises technicians, larval rearing systems, water quality checks, and strict daily routines where mistakes quickly become losses. She has no background in finance or policy, so she needs a simple introduction to the six environmental objectives of the EU Taxonomy and how they relate to water use, chemical inputs, energy consumption, and waste streams in a hatchery. She needs examples that show how sustainability language might appear in supplier requests, audits, or investment plans. What matters most to her is understanding what information she may be asked to provide and how her hatchery practices could be described in a way outsiders understand.",
+    "key_fear": "She worries that complex rules written by outsiders will judge hatchery work unfairly and turn technical production issues into compliance problems.",
     "is_primary_target": true
   },
   {
-    "name": "Ibrahim Kovač",
-    "role": "Maintenance & Operations Supervisor / Technical Lead",
-    "learning_needs": "Hands-on, procedure-focused training that turns taxonomy criteria into daily SOPs: clear tasks for maintenance, feeding, effluent control, energy monitoring and record-keeping tied to the six objectives. Needs step-by-step troubleshooting guides, field-friendly monitoring sheets, mobile data-entry examples, and short role-play scenarios to practice reporting impacts upward so management can meet taxonomy assessment requirements while keeping operations efficient.",
-    "is_primary_target": true
+    "name": "Lars Henriksen",
+    "role": "Pelagic Fishing Vessel Skipper and Co-owner",
+    "learning_needs": "Lars has spent decades at sea and thinks in terms of fuel, weather, crew safety, quotas, and landing quality, not frameworks and reporting systems. He needs to understand whether the EU Taxonomy affects vessel upgrades, access to finance, buyer expectations, and the way fishing activity is discussed in sustainability conversations. He will only engage if the material shows direct relevance to his business decisions, using concrete examples instead of institutional jargon. For Lars, learning matters if it helps him protect his livelihood, make sense of future market pressure, and speak confidently when regulators or processors raise sustainability questions.",
+    "key_fear": "He fears that sustainability frameworks will be used to label fishing businesses as a problem first and only later ask how they actually operate.",
+    "is_primary_target": false
   }
 ]

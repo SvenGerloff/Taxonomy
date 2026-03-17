@@ -1,110 +1,237 @@
 # Result for Step: 03_Gamma_Prompt
 
-Create a 10‑slide pitch deck titled: "Module 4: The European Union Taxonomy: A Framework for Sustainability" — designed for Gamma. Target audience: experienced fishing and aquaculture professionals (EQF Level 5: management & supervision). Core pedagogy: experience‑based learning, practical application, impact visualization. Visual style: circular economy aesthetics — blues and greens, clean modern layout, circular motifs, eco icons. Export deliverables: PPTX + PDF; include detailed speaker notes for each slide (management‑level, checklist/action focus). Ensure accessibility (high contrast, alt text for images).
+Create a modern, executive-quality 10-slide presentation for a professional training module titled: **“The European Union Taxonomy: A Framework for Sustainability”**.
 
-Slide-by-slide instructions
+Audience: fishing and aquaculture professionals and facility managers with strong operational experience but no prior knowledge of the EU Taxonomy.  
+Tone: practical, credible, strategic, visually premium, easy to understand, action-oriented.  
+Purpose: explain the EU Taxonomy through a realistic aquaculture scenario and show how operational decisions can unlock sustainability performance and green financing.
 
-Slide 1 — Title / Immersive Opening
-- Headline: Module 4 — The European Union Taxonomy: A Framework for Sustainability
-- Subhead: An immersive scenario: You are the Facility Manager — secure green financing by aligning operations with the EU Taxonomy.
-- Visual: Full‑bleed photo/illustration of a mid‑sized Mediterranean finfish farm at dawn (sea cages + onshore hatchery). Overlay a subtle circular gradient (deep blue → sea green).
-- Layout: Title top-left, subtitle underneath, right side: 1‑line role prompt: "Role: Facility Manager — make operational decisions to secure green finance."
-- Speaker notes: Quick orientation: learner role, outcome, EQF Level 5 management expectations.
+Design direction:
+- Visual identity: **deep ocean blues, vibrant sustainability greens, clean white space**
+- Style: **high-end corporate sustainability pitch deck**
+- Use **full-bleed background photography**, sleek overlays, subtle gradients, sharp grid-based layouts
+- Typography: **modern sans-serif**, bold headers, clean body text, strong visual hierarchy
+- Include **data badges, icon systems, animated transition cues, section dividers**
+- Avoid clip art, cartoonish visuals, generic stock clichés, overly busy layouts
+- Preferred imagery: Mediterranean finfish aquaculture farm, sea cages at dawn, hatchery interiors, renewable energy systems, marine monitoring, clean industrial waste processing, investor presentation moments
+- Feel: cinematic, innovative, future-ready, policy-to-practice translation
 
-Slide 2 — Learning Outcomes & Module Map
-- Headline: What you will master (EQF Level 5)
-- Content: 4 bullet outcomes (understand EU Taxonomy’s six objectives; perform a site audit; make operational decisions mapped to taxonomy; produce a Taxonomy Action Plan and KPIs).
-- Visual: Circular roadmap (4 steps) using blues/greens and circular arrows.
-- Speaker notes: Emphasize supervision responsibilities, decision authority, stakeholder reporting.
+Build exactly 10 slides with the following structure and content:
 
-Slide 3 — The Challenge: The Six Environmental Objectives (overview)
-- Headline: The Auditor's Test — contribute to 1+ objective, do No Significant Harm to the others
-- Visual: Infographic — hexagon wheel showing the EU Taxonomy’s six objectives as 6 labeled slices around a central farm icon.
-- For each objective include 1‑line plain language definition (max 6 words) and a simple icon:
-  1) Climate change mitigation — reduce greenhouse gas emissions (icon: leaf + graph)
-  2) Climate change adaptation — climate‑resilient infrastructure (icon: shield + wave)
-  3) Sustainable use/protection of water & marine resources (icon: water drop + fish)
-  4) Transition to a circular economy — materials & waste reuse (icon: circular arrows + loop)
-  5) Pollution prevention & control (icon: no‑drip / barrier)
-  6) Protection/restoration of biodiversity & ecosystems (icon: seagrass + fish)
-- Layout: infographic center, short caption below: "You must show substantial contribution to at least one and no significant harm to the others."
-- Speaker notes: Simplify regulatory language; how auditors check these.
+---
 
-Slide 4 — Facility Zone Map: Where decisions happen
-- Headline: Site zones — audit walkthrough
-- Visual: Stylized site map (top view) with four clickable/annotated zones: Zone A Energy & Infrastructure, Zone B Hatchery, Zone C Waste Processing, Zone D Coastal Seabed. Use circular hotspot markers and numbered callouts.
-- Right column: short decision prompt for each zone (one sentence).
-- Speaker notes: Explain audit flow and where data is collected; management checks.
+### Slide 1 — Hero Opening
+**Title:** The European Union Taxonomy: A Framework for Sustainability  
+**Subtitle:** A practical decision-making journey for aquaculture leaders  
+**Bold opening question:** **“Is your farm ready for the EU’s green revolution?”**  
+**Content direction:**  
+Set the scene at a mid-sized Mediterranean finfish aquaculture facility at dawn. The learner is the Facility Manager, facing a critical mandate: to secure the next round of green financing, the farm must prove it is environmentally sustainable under the EU Taxonomy.  
+**Visual request:** cinematic full-bleed aerial photo of offshore sea cages and onshore hatchery at sunrise, dark blue overlay, bold white typography, subtle green accent line.  
+**Design features:** premium title composition, minimal text, dramatic mood, motion cue for title reveal.
 
-Slides 5–8 — Zone Deep Dives (one slide per zone)
-- Consistent layout across the four slides: left half = scenario + decision options; right half = visual (photo + icons) + KPI gauge.
-- Visual aesthetic: blues/greens, circular decision cards.
+---
 
-Slide 5 — Zone A: Energy & Infrastructure (Climate Change Mitigation & Adaptation)
-- Headline: Replace diesel; build resilience
-- Scenario bullets: current diesel gensets; climate‑vulnerable moorings.
-- Decision taken (highlighted): Install solar‑wind hybrid + heavy‑duty climate‑resilient moorings.
-- Visuals: photo of solar panels + small wind turbines near cages; icon for resilient mooring.
-- KPI visuals: energy mix pie (before/after), projected carbon reduction gauge (% CO2 ↓ — show -40% overall target).
-- Speaker notes: Management checklist, CAPEX vs OPEX, monitoring plan and timeline.
+### Slide 2 — The Starting Point: A New Era of Standards
+**Title:** A New Era of Standards  
+**Content:**  
+Introduce the scenario narrative:
+- You are the Facility Manager of a Mediterranean finfish aquaculture facility.
+- Production is no longer enough.
+- Investors now require proof of sustainability, not just profitability.
+- The EU Taxonomy becomes the new rulebook for accessing green capital.
 
-Slide 6 — Zone B: Hatchery (Sustainable Use & Protection of Water and Marine Resources)
-- Headline: Reduce intake and recycle
-- Scenario bullets: high water usage, effluent risks.
-- Decision taken: Implement RAS to treat & reuse 95% of water.
-- Visuals: RAS schematic, water reuse percentage gauge (95%).
-- KPI visuals: water consumption bar (before/after).
-- Speaker notes: Permits, training needs, operational SOP highlights.
+Add a concise explainer box:
+**“What is the EU Taxonomy?”**  
+A European classification system that defines which economic activities are environmentally sustainable.
 
-Slide 7 — Zone C: Waste Processing (Circular Economy & Pollution Prevention)
-- Headline: Turn sludge into value
-- Scenario bullets: sludge disposal, nutrient runoff risk.
-- Decision taken: Capture sludge → anaerobic digester → biogas + fertilizer; closed nutrient loop.
-- Visuals: process flow diagram (sludge → digester → biogas + fertilizer), zero nutrient discharge icon.
-- KPI visuals: nutrient discharge trendline (to zero), energy recovered kWh gauge.
-- Speaker notes: Revenue streams, waste management KPIs, monitoring.
+**Visual request:** split-layout with facility operations photo on one side and clean infographic text block on the other.  
+**Design features:** executive style, one highlighted pull-quote, subtle animated cue between “profitability” and “sustainability”.
 
-Slide 8 — Zone D: Coastal Seabed (Biodiversity Protection & Restoration)
-- Headline: Monitor, protect, and restore the seabed
-- Scenario bullets: benthic impact from cages; seagrass decline.
-- Decision taken: deploy benthic sensors + fallowing schedule; support Posidonia regeneration.
-- Visuals: seagrass restoration photo, sensor array illustration.
-- KPI visuals: seagrass density +15% bar chart; map with monitoring points.
-- Speaker notes: Community engagement, timing of fallowing, scientific monitoring protocol.
+---
 
-Slide 9 — Taxonomy Action Plan (Mastery Demonstration)
-- Headline: Cohesive Action Plan — map decisions to Taxonomy objectives
-- Visual: Two‑column mapping table graphic (left: operational upgrade, right: linked Taxonomy objective(s) + KPI). Use circular connectors from each zone to the relevant objective(s) on the hexagon wheel.
-  Example mappings:
-  - Solar‑wind hybrid → Climate change mitigation (Obj 1) • KPI: CO2 ↓ 40%
-  - Climate‑resilient moorings → Climate adaptation (Obj 2) • KPI: downtime ↓ X%
-  - RAS → Sustainable water use (Obj 3) • KPI: 95% reuse
-  - Sludge → Biogas/fertilizer → Circular economy & Pollution prevention (Obj 4 & 5) • KPI: zero nutrient discharge
-  - Benthic monitoring & fallowing → Biodiversity protection (Obj 6) • KPI: seagrass +15%
-- Include short investor pitch blurb (3 lines) explaining risk mitigation, return, and compliance.
-- Speaker notes: How to present to investors — evidence, KPIs, timeline, governance.
+### Slide 3 — The Crisis: The Auditor’s Challenge
+**Title:** The Auditor’s Challenge  
+**Content:**  
+Present the core challenge:
+- The farm must demonstrate **substantial contribution** to at least one EU Taxonomy environmental objective.
+- It must also do **“Do No Significant Harm” (DNSH)** to the others.
+- The learner must conduct a site audit and make operational decisions across the facility.
 
-Slide 10 — Impact Visualization Panel & Next Steps
-- Headline: Impact Dashboard + Action Timeline
-- Visual: Interactive dashboard mockup (3 panels):
-  - Environmental: carbon footprint timeline (‑40%), water reuse gauge (95%), nutrient discharge = 0, seagrass +15%.
-  - Economic: green financing status (secured — badge), projected energy cost reductions (show % or sample graph).
-  - Social: new green jobs (numeric), community trust metric (▲).
-- Below dashboard: 90‑day action checklist for the Facility Manager (audit, procurement, monitoring setup, stakeholder briefing).
-- Call to action: "Prepare and present your Taxonomy Action Plan — ready for the investor pitch."
-- Speaker notes: EQF Level 5 wrap: supervisory responsibilities, reporting cadence, escalation points.
+Include a **hexagon infographic** in the center showing the **six EU Taxonomy environmental objectives**:
+1. Climate Change Mitigation  
+2. Climate Change Adaptation  
+3. Sustainable Use and Protection of Water and Marine Resources  
+4. Transition to a Circular Economy  
+5. Pollution Prevention and Control  
+6. Protection and Restoration of Biodiversity and Ecosystems
 
-Design & Production Notes (global)
-- Color palette suggestions: deep blue #005f73, sea green #0a9396, light aqua #94d2bd, sand accent #e9c46a. Use circular motif for icons/diagrams.
-- Typography: clean sans‑serif (Inter/Roboto). Headline weight bold, body regular.
-- Imagery: prefer real‑world Mediterranean farm photos + clean vector overlays. Provide alt text for each image.
-- Infographic requirement: Create a high‑quality infographic slide (Slide 3) for the EU Taxonomy’s six environmental objectives — hexagon wheel + icons + 1‑line plain language definitions. Also produce a separate downloadable PNG of that infographic for quick reference.
-- Interactive elements: highlight decision hotspots on the site map; subtle reveal animations for "before → after" charts.
-- Accessibility: high contrast, legible fonts, minimal text per slide (max 6 bullets), include speaker notes with full detail for trainers.
-- Deliverables: PPTX + PDF + separate PNG of the EU Taxonomy infographic + speaker notes exported per slide.
+Add a short line under the hexagon:
+**“One strong contribution. No major harm anywhere else.”**
 
-Tone & Language
-- Use plain, non‑technical language for definitions and auditor requirements (audience has practical expertise, no prior regulatory knowledge).
-- For speaker notes, include management‑level prompts: “What to ask your technical team”, “Evidence to collect for auditors”, “KPIs to track weekly/monthly”.
+**Visual request:** sleek hexagon infographic with distinct but harmonious blue-green color coding, minimal icons, premium data-viz style.  
+**Design features:** dark background with glowing infographic, crisp labels, animated build-in of each objective.
 
-End prompt: Produce the 10 slides exactly as specified, ready for an EQF Level 5 training session — high visual impact, practical decision pathways, and a clear Taxonomy Action Plan for an investor pitch.
+---
+
+### Slide 4 — Zone A: Energy & Infrastructure
+**Title:** Zone A — Energy & Infrastructure  
+**Objective tags:** Climate Change Mitigation + Climate Change Adaptation  
+**Decision point:**  
+Replace diesel generators with a **solar-wind hybrid energy system** and upgrade to **heavy-duty, climate-resilient moorings**.
+
+**Explain clearly:**
+- **Mitigation:** reduce greenhouse gas emissions from farm operations
+- **Adaptation:** prepare infrastructure for stronger storms, heat, and changing marine conditions
+
+**Include an impact stat badge:**  
+**“Potential carbon footprint reduction: up to 40%”**
+
+**Visual request:** full-width or layered image of sea cages with renewable energy integration, wind turbines/solar arrays in a coastal aquaculture setting, robust mooring systems in rough sea conditions.  
+**Icon prompt:** energy, shield/resilience, CO2 reduction  
+**Design features:** before/after decision panel, one highlighted takeaway, animated stat badge.
+
+---
+
+### Slide 5 — Zone B: The Hatchery
+**Title:** Zone B — The Hatchery  
+**Objective tag:** Sustainable Use and Protection of Water and Marine Resources  
+**Decision point:**  
+Implement a **Recirculating Aquaculture System (RAS)** that treats and reuses **95% of water**.
+
+**Explain clearly:**
+- lowers freshwater demand
+- reduces pressure on surrounding marine resources
+- improves control over water quality and biosecurity
+
+**Include an impact stat badge:**  
+**“95% water reuse through RAS”**
+
+**Visual request:** clean, high-tech hatchery interior with tanks, pipes, filtration equipment, blue water lighting, precision operations.  
+**Icon prompt:** water loop, filtration, marine stewardship  
+**Design features:** sleek process mini-diagram showing intake → treatment → reuse, clean white/blue palette with green accent.
+
+---
+
+### Slide 6 — Zone C: Waste Processing
+**Title:** Zone C — Waste Processing  
+**Objective tags:** Transition to a Circular Economy + Pollution Prevention and Control  
+**Decision point:**  
+Capture sludge and organic waste, then process it into **biogas** and **agricultural fertilizer**, ensuring **zero nutrient runoff**.
+
+**Explain clearly:**
+- waste becomes a resource
+- value is recovered from by-products
+- nutrient leakage and pollution risks are minimized
+
+**Include an impact stat badge:**  
+**“Target: Zero nutrient discharge”**
+
+**Visual request:** sophisticated waste-to-resource processing environment, sludge capture systems, biogas concept visualization, circular flow arrows integrated into layout.  
+**Icon prompt:** circular arrows, biogas flame, pollution barrier  
+**Design features:** circular economy infographic ribbon, premium industrial sustainability aesthetic, subtle motion for circular loop.
+
+---
+
+### Slide 7 — Zone D: The Coastal Seabed
+**Title:** Zone D — The Coastal Seabed  
+**Objective tag:** Protection and Restoration of Biodiversity and Ecosystems  
+**Decision point:**  
+Deploy **benthic monitoring sensors** and implement a **fallowing system** to allow native **Posidonia oceanica** seagrass meadows to regenerate.
+
+**Explain clearly:**
+- tracks seabed health in real time
+- reduces ecological stress under cages
+- supports habitat recovery and marine biodiversity
+
+**Include an impact stat badge:**  
+**“Seagrass density increased by 15%”**
+
+**Visual request:** underwater seabed scene with seagrass meadow, marine sensors, healthy ecosystem imagery, elegant scientific realism.  
+**Icon prompt:** biodiversity leaf/coral icon, sensor signal, habitat restoration  
+**Design features:** immersive underwater color palette, scientific credibility, data overlay style labels.
+
+---
+
+### Slide 8 — The Taxonomy Action Plan
+**Title:** From Site Decisions to a Taxonomy Action Plan  
+**Content:**  
+Show how the Facility Manager synthesizes all zone-level upgrades into a coherent plan for investors.
+
+Create a structured table or roadmap with columns:
+- Facility Zone
+- Operational Upgrade
+- Linked EU Taxonomy Objective
+- Business Benefit
+- Environmental Result
+
+Use these mappings:
+- Energy & Infrastructure → solar-wind hybrid + resilient moorings → Climate Mitigation / Adaptation
+- Hatchery → RAS water reuse → Water and Marine Resources
+- Waste Processing → sludge to biogas/fertilizer → Circular Economy / Pollution Prevention
+- Coastal Seabed → monitoring + fallowing → Biodiversity and Ecosystems
+
+Add a presenter-style takeaway:
+**“Taxonomy alignment turns sustainability actions into investment-ready evidence.”**
+
+**Visual request:** polished strategy slide, roadmap/table hybrid, investor-facing aesthetic.  
+**Design features:** clean matrix, colored objective tags, strong boardroom feel, subtle animated row reveals.
+
+---
+
+### Slide 9 — Impact Visualization Dashboard
+**Title:** Measuring the Transformation  
+**Content:**  
+Create an **interactive dashboard-style slide** visualizing environmental, economic, and social performance.
+
+Include three KPI sections:
+
+**Environmental**
+- Carbon footprint reduced by 40%
+- Zero nutrient discharge
+- Seagrass density increased by 15%
+
+**Economic**
+- Green financing secured
+- Operational energy costs reduced
+- Improved long-term resilience and asset value
+
+**Social**
+- Creation of specialized green jobs
+- Enhanced community trust
+- Stronger reputation with regulators and buyers
+
+**Visual request:** premium data visualization dashboard with gauges, bar charts, circular KPI rings, and concise metric cards.  
+**Design features:** dark or white dashboard background, luminous blue-green data accents, clearly segmented ESG categories, subtle animation cues for numbers counting up.
+
+---
+
+### Slide 10 — Call to Action
+**Title:** Your Next Move  
+**Content:**  
+Close with a strong action-oriented message for aquaculture leaders:
+- Audit current operations against the six EU Taxonomy objectives
+- Identify one area for substantial contribution
+- Check for “Do No Significant Harm” across all others
+- Build a phased Taxonomy Action Plan
+- Use sustainability evidence to support green financing discussions
+
+Include a short financing link message:
+**“Taxonomy alignment is not just compliance — it is a gateway to credibility, resilience, and green investment.”**
+
+Add a powerful closing quote:
+**“The farms that measure sustainability today will finance growth tomorrow.”**
+
+**Visual request:** confident closing image of aquaculture leaders reviewing plans overlooking the sea, or investor meeting with marine visuals layered behind.  
+**Design features:** elegant CTA layout, strong final statement, premium closing transition.
+
+---
+
+Additional presentation requirements:
+- Keep language clear, practical, and non-legalistic
+- Make each slide visually distinct but stylistically consistent
+- Emphasize real-world decision-making and operational relevance
+- Use concise text blocks, not dense paragraphs
+- Include subtle labels or callouts for **“Substantial Contribution”** and **“Do No Significant Harm (DNSH)”** where relevant
+- Add iconography that feels professional, minimal, and technical
+- Ensure all visuals feel tailored to aquaculture and sustainability finance
+- The final result should look like a polished executive training deck suitable for professional workshops, investor education, and management-level learning sessions
