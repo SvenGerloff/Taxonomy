@@ -1,31 +1,47 @@
 # Result for Step: 04_HeyGen_Prompt
 
-Create a 50-second AI avatar video in vertical 9:16 format for a professional VET training module intro. Use a modern, confident presenter in business-casual attire, with a clean neutral background or subtle ocean-inspired gradient. Delivery style: cinematic, high-energy, TED Talk x Netflix x LinkedIn viral. The avatar is an industry expert, not a professor. Tone: urgent, inspiring, direct. Use strong eye contact, subtle hand gestures, crisp pacing, and strategic pauses. Keep total voiceover to EXACTLY 50 seconds, around 130–140 words.
+Create a 50-second AI avatar video for a professional VET training module introduction.
 
-Use this script exactly as written:
+Avatar direction:
+- Use a modern, confident presenter
+- Business-casual attire
+- Clean neutral background or subtle ocean-inspired blue gradient
+- Delivery style: cinematic, punchy, high-energy, LinkedIn/YouTube Shorts quality
+- Presenter is an industry expert speaking to aquaculture professionals, not a professor
+- Strong eye contact, subtle hand gestures, upright posture, confident facial expression
 
-[0–5 sec] [URGENT] Your farm has one shot. [PAUSE 0.5s] Can it meet the EU Taxonomy—or miss the next wave of green finance?  
-[On-screen text: “EU Taxonomy. Green Finance. Act Now.”]
+Voice and performance:
+- Tone: [URGENT], [INSPIRATIONAL], [DIRECT]
+- Pace: dynamic, sharp, controlled
+- Use the inline cues exactly as written: [PAUSE 0.5s], [SPEED UP]
+- Keep total runtime EXACTLY 50 seconds
+- Aim for approx. 135 words total
 
-[5–20 sec] [DIRECT] At this Mediterranean aquaculture facility, profit is no longer enough. To unlock funding, the farm must prove it supports at least one of the EU Taxonomy’s six environmental objectives—while doing no significant harm to the others. [PAUSE 0.5s] The clock is ticking.  
-[On-screen text: “6 Objectives. No Significant Harm. Funding at Risk.”]
+Script structure and final voiceover script:
 
-[20–35 sec] [SPEED UP] So you step in as Facility Manager. Zone A: replace diesel with solar-wind, upgrade climate-resilient moorings. Zone B: install RAS, reuse 95% of water. Zone C: turn sludge into biogas and fertilizer, with zero nutrient runoff. Zone D: monitor the seabed and restore Posidonia seagrass.  
-[On-screen text: “Zone A Energy | Zone B Water | Zone C Waste | Zone D Biodiversity”]
+[0–5 sec] HOOK  
+[URGENT] Your farm has one future question to answer: can it meet the EU Taxonomy… before funding runs dry? [PAUSE 0.5s]  
+On-screen text: “EU Taxonomy” / “Green financing at risk”
 
-[35–48 sec] [INSPIRATIONAL] Now bring it all together. Build the Taxonomy Action Plan. Cut carbon by 40%. Eliminate discharge. Restore ecosystems. Secure green finance. Create skilled jobs. Earn trust. This is not paperwork. [PAUSE 0.5s] It is your farm’s future. Start the module now.  
-[On-screen text: “40% Less Carbon | Zero Discharge | Green Finance Secured”]
+[5–20 sec] PROBLEM  
+[DIRECT] At this Mediterranean aquaculture facility, profit is no longer enough. To secure green finance, the farm must prove it supports at least one of the EU Taxonomy’s six environmental objectives—while doing no significant harm to the rest. [PAUSE 0.5s] That means a full-site rethink.  
+On-screen text: “6 Environmental Objectives” / “Do No Significant Harm” / “Audit starts now”
 
-[48–50 sec] [DIRECT] EU Taxonomy. [PAUSE 0.5s] Transform.  
-[On-screen text: “Module 4: The European Union Taxonomy”]
+[20–35 sec] SOLUTION TEASE  
+[INSPIRATIONAL] [SPEED UP] Zone A: cut diesel with solar-wind power and climate-resilient infrastructure. Zone B: reuse 95% of hatchery water with RAS. Zone C: turn sludge into biogas and fertilizer with zero nutrient runoff. Zone D: restore seabed life with sensors and fallowing. Then bring every decision together in one Taxonomy Action Plan.  
+On-screen text: “Zone A Energy” / “Zone B Water” / “Zone C Waste” / “Zone D Biodiversity” / “Action Plan”
 
-Performance direction:
-- Start with immediate intensity and a slight forward lean.
-- Increase pace in the zone sequence for a fast-cut hero journey feel.
-- Slow down and land hard on “This is not paperwork. It is your farm’s future.”
-- Final word “Transform” should be clean, confident, and held for logo reveal.
+[35–48 sec] CLIMAX/CALL TO ACTION  
+[DIRECT] This is not paperwork. This is access—to EMFAF, LIFE, Horizon Europe, and EIB green loans. [PAUSE 0.5s] Cut carbon by 40%. Protect the sea. Build trust. Secure the future of your farm. Start the module now.  
+On-screen text: “Funding Access” / “-40% Carbon” / “Zero Nutrient Discharge” / “Green jobs”
 
-Visual notes:
-- Add quick motion graphics for each zone label.
-- Use subtle icons for energy, water, circular waste, biodiversity, and finance.
-- End with logo hold on screen for final 2 seconds.
+[48–50 sec] OUTRO BEAT  
+[INSPIRATIONAL] Taxonomy. Action.  
+On-screen text: “Module 4: The European Union Taxonomy” / logo hold
+
+Visual editing notes:
+- Use fast cuts and subtle zooms between sections
+- Add bold kinetic text for key phrases and numbers
+- Suggested B-roll overlays: sea cages at dawn, hatchery water systems, waste-to-biogas process, seabed monitoring, investor presentation dashboard
+- Keep captions on-screen for accessibility
+- End with 2-second logo hold and clean audio finish
