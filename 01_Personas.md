@@ -2,33 +2,33 @@
 
 [
   {
-    "name": "Miguel Ángel Serrano",
-    "role": "Offshore Sea Cage Farm Operations Manager",
-    "age_and_location": "47, Murcia Coast, Spain",
-    "quote": "I can handle storms, feed costs, and fish mortality—but I lose patience when someone from an office tells me how my farm works from a spreadsheet.",
-    "daily_frustrations": "His days are dominated by breakdowns, weather shifts, staffing gaps, and constant pressure to keep production stable while margins shrink. What irritates him most is paperwork that takes him away from the cages and gives him no visible benefit to fish health, fuel costs, or farm output.",
-    "learning_needs": "He does not need abstract definitions of sustainability; he needs to see how decisions he already makes—energy systems, moorings, monitoring, waste handling—connect to real business advantages. He wants a simple way to identify which improvements could help him cut diesel use, reduce climate-related risks, and strengthen his case for investment. He needs practical guidance on what evidence to keep, what actions count, and how this can help him access grants or better financing. If learning saves time, protects production, or brings money into the farm, he will engage.",
-    "taxonomy_view": "At first, the EU Taxonomy looks like another layer of Brussels bureaucracy designed to judge operations without understanding reality offshore. It becomes an ally only when he sees it as a map that translates farm improvements into language banks, investors, and funding programs will reward.",
+    "name": "Miguel Álvarez Romero",
+    "role": "Offshore Sea Bass Farm Operations Manager",
+    "age_and_location": "48, Murcia Coast, Spain",
+    "quote": "I can keep fish alive through storms and breakdowns, but every new form from Brussels feels like paperwork written by someone who has never stepped on a wet cage walkway.",
+    "daily_frustrations": "Miguel spends his days juggling feed deliveries, generator problems, staff shortages, and sudden weather changes that can ruin a week of planning. What angers him most is losing time to reporting requests that seem disconnected from the real pressures of keeping the farm productive and compliant.",
+    "learning_needs": "He does not need legal theory or abstract sustainability language; he needs to understand which farm decisions already count as 'good' under the EU Taxonomy and which upgrades could unlock funding. He wants a practical map linking energy systems, moorings, monitoring equipment, and waste controls to clear business benefits. He needs examples of what evidence to collect, who will ask for it, and how this can help him secure investment instead of just creating more admin. If he sees that taxonomy alignment can reduce diesel costs, improve resilience, and strengthen loan applications, he will pay attention.",
+    "taxonomy_view": "At first, the EU Taxonomy looks like another external control system that will judge his farm without understanding operational reality. It can become an ally if it is presented as a tool that translates what he already does into a language banks, investors, and funders reward.",
     "is_primary_target": true
   },
   {
-    "name": "Giulia Conti",
-    "role": "Hatchery and Recirculating Systems Supervisor",
-    "age_and_location": "39, Veneto, Italy",
-    "quote": "If a rule helps me keep the larvae alive and the water stable, I’m interested; if it just gives me another folder to fill, it’s dead weight.",
-    "daily_frustrations": "She works in a high-pressure environment where tiny changes in water quality can ruin weeks of work, so interruptions and unclear procedures are a constant source of stress. She gets frustrated when management asks for compliance data in formats that do not match how hatchery work actually happens on the floor.",
-    "learning_needs": "She needs to understand the Taxonomy through the hatchery lens: water reuse, discharge control, energy demand, and system resilience. Rather than legal wording, she wants concrete examples of what qualifies as a good water-management practice and how to prove it with data she already collects. She also needs clarity on how sustainability reporting can support upgrades such as better filtration, sensors, or recirculation capacity. Her motivation rises when learning helps her defend technical investments with solid operational and financial arguments.",
-    "taxonomy_view": "To her, the EU Taxonomy initially feels like a compliance language invented by people who have never stood next to a live RAS alarm at 4 a.m. It becomes useful when it helps turn hatchery performance data into proof that her systems are efficient, fundable, and future-ready.",
+    "name": "Chiara Bellandi",
+    "role": "Hatchery and Water Systems Supervisor",
+    "age_and_location": "39, Emilia-Romagna, Italy",
+    "quote": "If a rule helps me protect water quality and fish survival, I will use it; if it is just another slogan in a document, it is dead weight.",
+    "daily_frustrations": "Chiara works under constant pressure to maintain stable water parameters, prevent losses, and keep the hatchery running without interruption. She gets frustrated when management talks about sustainability in vague terms but gives her no clear method, no budget logic, and no usable criteria for deciding between equipment investments.",
+    "learning_needs": "She needs to learn how water recirculation, treatment, reuse rates, discharge reduction, and monitoring practices connect to one specific EU Taxonomy objective in a way she can explain to directors and auditors. She wants a practical checklist for what counts as compliant performance in hatchery operations, not a policy lecture. She also needs to understand how taxonomy alignment can strengthen business cases for RAS upgrades, sensors, and maintenance budgets. For Chiara, learning sticks when it helps her justify technical decisions with financial and environmental credibility.",
+    "taxonomy_view": "She may initially see the EU Taxonomy as a management buzzword that will be pushed onto technical staff without operational support. It becomes useful when it helps her turn good water management into measurable proof that unlocks investment and recognition.",
     "is_primary_target": true
   },
   {
-    "name": "João Pedro Martins",
-    "role": "Fish Processing and By-product Recovery Supervisor",
-    "age_and_location": "52, Algarve, Portugal",
-    "quote": "Everyone talks about waste on paper, but I’m the one standing in front of the bins, the sludge, and the cost of getting rid of it.",
-    "daily_frustrations": "He deals daily with mixed waste streams, disposal contractors, hygiene rules, and production targets that leave little room for experimentation. What wears him down is seeing usable material treated as a cost burden because no one has given him a realistic system to separate, recover, or sell it properly.",
-    "learning_needs": "He needs to learn how circular economy ideas apply directly to sludge, offcuts, packaging, wastewater residues, and nutrient recovery—not as slogans, but as operational decisions. He wants to know which waste-processing changes could reduce disposal fees, avoid pollution incidents, and create new value through biogas, fertilizer, or reuse partnerships. He also needs a basic, non-technical understanding of how these actions fit into funding applications and compliance plans. He will care if the training helps him turn the ‘waste problem’ into a business case management will support.",
-    "taxonomy_view": "His first reaction is that the EU Taxonomy is just another way to inspect, criticize, and complicate a job that is already tightly controlled. It starts to look like an ally when he realizes it can legitimize investment in waste recovery systems and show that pollution prevention is not just compliance—it is a route to savings and new income.",
+    "name": "João Mendes Pereira",
+    "role": "Aquaculture Processing and Waste Handling Supervisor",
+    "age_and_location": "54, Algarve, Portugal",
+    "quote": "People call it waste because they do not have to pay to move it, store it, or explain where it went.",
+    "daily_frustrations": "João deals with sludge, mortalities, packaging waste, transport delays, odor complaints, and the constant challenge of keeping the site clean, safe, and within local rules. He is irritated by the fact that waste is treated as an afterthought by senior management until costs rise or an inspector appears.",
+    "learning_needs": "He needs to learn how waste separation, sludge capture, nutrient recovery, and by-product valorization fit into the circular economy and pollution prevention objectives of the EU Taxonomy. He wants practical guidance on what changes are worth making on site, what records matter, and how these actions can turn disposal costs into new value such as biogas, fertilizer, or stronger funding applications. He also needs simple language for explaining to his team why closed-loop systems matter beyond 'because regulation says so.' He will engage if the training shows that better waste handling can improve margins, reduce risk, and give his work strategic importance.",
+    "taxonomy_view": "His first instinct is that the EU Taxonomy is another compliance burden that will blame operators for problems created by poor planning and underinvestment. It can become an ally if it proves that waste management is not just cleanup work but a finance-worthy sustainability asset.",
     "is_primary_target": false
   }
 ]

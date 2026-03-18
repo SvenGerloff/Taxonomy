@@ -1,251 +1,284 @@
 # Result for Step: 03_Gamma_Prompt
 
-Schreiben für: Aquaculture and Fishing Professionals (VET level)  
-Tone: Urgent but empowering, clear, professional (American English)
+Schreiben für: Seasoned Aquaculture and Fishing Professionals (VET Level). These are proud, hands-on workers and managers who are deeply skeptical of bureaucratic regulations (“just another rule to make my life harder”). They respect practicality, clear talk, and immediate real-world impact. They have ZERO prior knowledge of the EU Taxonomy or green finance.
 
-Create a professional, educational presentation in EXACTLY 10 slides for CircuTech Module 4: “The European Union Taxonomy: A Framework for Sustainability.” The audience is aquaculture and fishing professionals with strong practical experience but zero prior knowledge of the EU Taxonomy or complex regulatory systems. The presentation must feel practical, relevant, motivating, and easy to understand. Avoid jargon or explain it instantly in plain English. The learner should leave feeling: “I understand what this is, why it matters to my farm, and what I need to do next.”
+Ton: Urgent but empowering, extremely clear, highly professional but jargon-free (American English). Speak to them as peers who are being handed a competitive advantage, not as students being lectured.
 
-Core learning goals by the end of the deck:
-1. Understand WHAT the EU Taxonomy is in simple terms.
-2. Understand WHY it exists and WHAT THE BENEFIT is for their business.
-3. Understand the 6 environmental objectives using simple aquaculture examples.
-4. Understand HOW funding works and WHAT rules matter.
-5. Know the NEXT STEPS clearly and simply.
+Create an EXACTLY 10-slide presentation in American English about “The EU Taxonomy: A Practical Funding Framework for Aquaculture.” Make it feel premium, modern, visual, and highly practical. The audience must feel: “This is not paperwork for paperwork’s sake. This is how serious farms unlock funding, reduce risk, and stay ahead.”
 
-Use this scenario throughout the deck:
-A mid-sized Mediterranean finfish aquaculture facility needs to secure green financing. The facility manager must prove the farm is environmentally sustainable under the EU Taxonomy. The farm is audited across operational zones:
-- Zone A: Energy & Infrastructure = Climate Change Mitigation and Climate Change Adaptation
-- Zone B: Hatchery / Water Management = Sustainable Use and Protection of Water and Marine Resources
-- Zone C: Waste Processing = Circular Economy and Pollution Prevention and Control
-- Zone D: Coastal Seabed = Biodiversity and Ecosystems
-- Zone E: Taxonomy Action Plan = linking all actions into one financing-ready compliance plan
+Overall design direction:
+- Visual style: clean, cinematic, high-trust, operations-focused.
+- Color palette: deep ocean navy, teal, sea green, white, with limited use of warm orange for alerts/highlights.
+- Typography: bold, highly readable, strong visual hierarchy.
+- Use large numbers, simple icons, short labels, and minimal text walls.
+- Use photo-realistic visuals of Mediterranean aquaculture: sea cages, hatchery tanks, moorings, pumps, sludge processing, seabed monitoring, seagrass meadows.
+- Avoid bureaucratic EU visuals like flags or dense policy charts unless simplified.
+- Every slide must be distinct in layout and purpose.
+- Keep each slide focused on one core message.
+- Use plain language. If a technical term appears, explain it instantly in simple words.
+- Include practical examples from daily farm operations.
+- Make the financial opportunity feel concrete and immediate.
+- Build confidence step by step.
+- Use subtle visual storytelling across a single farm case: a mid-sized Mediterranean finfish farm preparing for green investment.
 
-Include realistic practical examples from daily farm operations:
-- Replacing diesel generators with solar-wind hybrid systems
-- Installing climate-resilient moorings and temperature monitoring
-- Implementing RAS to reuse 95%+ of hatchery water
-- Turning sludge into biogas and agricultural fertilizer
-- Achieving zero nutrient runoff through closed-loop systems
-- Deploying benthic monitoring sensors
-- Using fallowing schedules to restore Posidonia oceanica seagrass meadows
+Must teach clearly by the end:
+1. What the EU Taxonomy is.
+2. Why it matters now and where the financial benefit is.
+3. What the 6 environmental objectives are, using simple relatable farm examples.
+4. How the rules work: “substantial contribution” + “do no significant harm” + evidence.
+5. What actions learners should take next.
 
-Always connect the Taxonomy to real funding opportunities:
+Use this farm case study throughout:
+- Zone A – Energy & Infrastructure: replace diesel generators with solar-wind hybrid systems; install climate-resilient moorings and temperature monitoring.
+- Zone B – Hatchery / Water Management: implement Recirculating Aquaculture System (RAS), reusing 95%+ of water.
+- Zone C – Waste Processing: capture sludge, convert it into biogas and agricultural fertilizer, achieve zero nutrient runoff.
+- Zone D – Coastal Seabed: deploy benthic monitoring sensors and use fallowing to restore Posidonia oceanica seagrass meadows.
+- Zone E – Taxonomy Action Plan: link all decisions to the correct EU Taxonomy objectives and present a verified plan to investors.
+
+Also include funding context naturally:
 - EMFAF
 - LIFE Programme
 - Horizon Europe
 - EIB Green Loans
+Explain simply that the process is: Assess compliance → Document evidence → Submit application → Expert verification → Receive funding.
 
-Keep the funding process simple and visual:
-Assess Compliance → Document Evidence → Submit Application → Expert Verification → Receive Funding
+Important instructional strategy:
+- Hook skeptical professionals immediately with business relevance.
+- Introduce complexity gradually.
+- Translate all regulation into operational decisions.
+- Show cause-and-effect clearly.
+- Make compliance feel manageable.
+- End with immediate next steps.
 
-Design direction:
-- EXACTLY 10 slides, no more, no less
-- Separate each slide with a markdown horizontal rule: ---
-- Deep ocean navy (#0A2342) for headers
-- Sustainability green (#2ECC71) for highlights
-- White backgrounds (#FFFFFF)
-- Font style: Montserrat for headers, Inter or Roboto for body
-- Highly visual, uncluttered, modern, boardroom-ready
-- Use photos of real aquaculture workers, sea cages, hatcheries, boats, coastal waters, monitoring tools, and waste processing
-- Use clean infographics, icons, diagrams, checklists, and process arrows
-- Minimize paragraphs; use short, high-impact statements
-- Make every slide easy to scan in under 10 seconds
-- Visual tone: credible, practical, future-focused, European sustainability context
-- Include subtle CircuTech learning feel: practical application, operational zones, impact visualization
-- Audience level: EQF Level 5, practical supervisors/managers
-- Language: American English
-- Do not make it academic, legalistic, or text-heavy
-
-Build the deck with these EXACT slide topics and intentions:
+Now generate these EXACT 10 slides, separated by horizontal rules.
 
 ---
-Slide 1: HOOK & TITLE  
-Title: The EU Taxonomy: Your Gateway to Green Capital  
-Subtitle: What it is, why it matters, and how your farm can actually benefit.  
-Purpose: Grab attention immediately and frame the topic as a business opportunity, not a bureaucracy lesson.  
-Visual: Full-bleed, high-quality hero image of a modern Mediterranean aquaculture farm at sunrise, combining sea cages and onshore hatchery/infrastructure. Add a subtle overlay in navy for contrast.  
-On-slide text: minimal and bold.  
-Optional small kicker line: “The farms that can prove sustainability will win the next wave of funding.”  
-Feel: urgent, aspirational, executive-level.
+Slide 1 — Strong hook: “This Is Not Another Rule. It’s a Funding Filter.”
+Purpose: Grab skeptical professionals in 5 seconds and reframe the EU Taxonomy as a business tool, not bureaucracy.
+
+Content:
+- Headline: “The farms that can prove sustainability will win the next round of finance.”
+- Subheadline: “The EU Taxonomy is the checklist investors and public funders use to spot lower-risk, future-ready aquaculture businesses.”
+- 3 punchy benefit statements:
+  - “Better access to grants and green loans”
+  - “Lower operating risk”
+  - “Stronger market credibility”
+- Add a short plain-language sentence: “If your farm can show the right improvements with the right proof, money becomes easier to access.”
+
+Visual direction:
+- Full-bleed dramatic dawn image of a Mediterranean aquaculture farm.
+- Overlay with one large bold statement and 3 icon-based benefit blocks.
+- Visual tone: urgent, credible, empowering.
+- No clutter.
 
 ---
-Slide 2: THE NEW REALITY OF FARMING  
-Purpose: Acknowledge the audience’s world and explain why this matters now.  
-Headline: Farming is changing. Funding is changing faster.  
-Core message in plain English:
-- Production alone is no longer enough.
-- Banks, investors, and public funders now ask for “green proof.”
-- If your farm cannot show environmental performance, access to loans and grants gets harder.
-- This is not theory. It affects real business decisions now.
-Use short statements, not long paragraphs.  
-Visual: split-scene concept showing traditional farm operations on one side and a “green finance / sustainability proof” decision checkpoint on the other.  
-Add a simple callout box: “No proof = harder access to capital.”  
-Tone: honest, urgent, non-alarmist.
+Slide 2 — Simple definition: “So What Is the EU Taxonomy?”
+Purpose: Explain the concept with zero jargon.
+
+Content:
+- Headline: “A simple definition”
+- Main explanation in plain language: “The EU Taxonomy is a common rulebook that says which business activities are genuinely environmentally sustainable.”
+- Add a second line: “It helps banks, investors, and funding programs separate real improvement from green marketing.”
+- Use a simple analogy box: “Think of it like a marine safety inspection for sustainability: if your systems meet the standard, you are easier to trust and easier to finance.”
+- Include a “What it is / What it is not” split:
+  - “It is: a framework for proving environmental performance”
+  - “It is not: a ban on fish farming or random paperwork with no purpose”
+
+Visual direction:
+- Clean split-screen layout.
+- Left: large simple infographic of “Farm activity → Evidence → Trusted as sustainable.”
+- Right: “Is / Is not” comparison cards.
+- Use icons, not legal-looking diagrams.
 
 ---
-Slide 3: SO, WHAT IS THE EU TAXONOMY?  
-Purpose: Explain the concept in the simplest possible way.  
-Headline: The EU’s official rulebook for what counts as sustainable  
-Use a plain-English definition:
-“The EU Taxonomy is a common checklist used to decide which business activities are genuinely environmentally sustainable.”  
-Then simplify further:
-“It helps banks, investors, and public programs identify farms that are ready for the future.”  
-Clarify what it is NOT:
-- Not a punishment
-- Not just paperwork
-- Not only for big corporations  
-Clarify what it IS:
-- A map
-- A shared language
-- A way to prove your farm is future-proof  
-Visual: simple “rulebook / map / badge of trust” concept with icons for bank, investor, grant fund, and farm.  
-Use a small “Think of it as…” section: “Think of it as the sustainability proof system behind green money.”
+Slide 3 — Why now: “Why This Matters Right Now for Aquaculture”
+Purpose: Connect sustainability standards to immediate pressure and opportunity.
+
+Content:
+- Headline: “Why now?”
+- 4 pressure/opportunity drivers:
+  - “Energy costs are volatile”
+  - “Climate risks are rising”
+  - “Water and discharge rules are tightening”
+  - “Public and investor scrutiny is increasing”
+- Then a strong transition line: “The good news: farms already making smart operational upgrades are closer than they think.”
+- Include funding box: “Where the money is”
+  - EMFAF — grants for sustainable aquaculture
+  - LIFE — environmental and climate action projects
+  - Horizon Europe — innovation funding
+  - EIB Green Loans — favorable financing for green investments
+
+Visual direction:
+- Dashboard-style slide with 4 pressure indicators across the top and a bold funding opportunity panel below.
+- Use strong icons: energy, storm/climate, water, investor/eye.
+- Make the funding box look concrete and attractive, not abstract.
 
 ---
-Slide 4: WHERE IS THE BENEFIT FOR YOU?  
-Purpose: Directly answer the audience’s “What’s in it for me?” question.  
-Headline: Why should your farm care?  
-Present benefits in a strong, practical format:
-- Access to cheaper green loans, including EIB financing
-- Better chances for EU grants like EMFAF and LIFE
-- Stronger position for innovation funding through Horizon Europe
-- Lower long-term energy and resource costs
-- Better market credibility with buyers, partners, and communities
-- Reduced risk of being shut out of future finance and procurement systems  
-Make this slide concrete and business-oriented.  
-Visual: benefit cards or icons with currency, shield, growth arrow, and grant symbols.  
-Add a highlighted banner: “Good sustainability evidence can unlock real money.”  
-Do not overcomplicate.
+Slide 4 — The 6 objectives made simple: “The Six Fields That Matter”
+Purpose: Introduce all 6 EU Taxonomy environmental objectives without overwhelming learners.
+
+Content:
+- Headline: “The 6 environmental objectives — translated into farm language”
+- Present the 6 objectives as simple cards with plain-language labels:
+  1. Climate change mitigation — “Cut emissions”
+  2. Climate change adaptation — “Prepare for heat, storms, and disruption”
+  3. Water and marine resources — “Use water carefully, protect the sea”
+  4. Circular economy — “Turn waste into value”
+  5. Pollution prevention and control — “Stop harmful releases”
+  6. Biodiversity and ecosystems — “Protect habitats and marine life”
+- Add one short orientation sentence: “To qualify, a farm usually needs to make a strong contribution to at least one objective without causing major harm to the others.”
+
+Visual direction:
+- Use a hexagon or 6-card grid, each card with one icon, one short label, one plain-language explanation.
+- Distinct color accents per objective, but all within the ocean palette.
+- Make it memorable and visual, not text-heavy.
 
 ---
-Slide 5: THE 6 GOALS (IN PLAIN ENGLISH)  
-Purpose: Introduce the six EU Taxonomy environmental objectives clearly and visually.  
-Headline: The 6 goals your farm may connect to  
-Create a simple wheel, ring, or hexagon infographic with all 6 objectives in very plain language:
-1. Cut emissions (Climate Change Mitigation)
-2. Prepare for climate risks (Climate Change Adaptation)
-3. Protect water and marine resources
-4. Use resources again, not once (Circular Economy)
-5. Prevent pollution
-6. Protect nature and biodiversity  
-For each goal, add a tiny aquaculture-friendly cue:
-- Clean energy
-- Stronger infrastructure
-- Water reuse
-- Waste to value
-- Zero harmful discharge
-- Seabed and habitat recovery  
-Visual style: clean, colorful, highly legible, one icon per objective.  
-Keep wording simple enough for a first-time learner.
+Slide 5 — The operational map: “Walk the Farm, See the Taxonomy”
+Purpose: Connect the 6 objectives to recognizable physical zones of a real facility.
+
+Content:
+- Headline: “The EU Taxonomy becomes practical when you map it to your farm”
+- Show the 5 zones:
+  - Zone A — Energy & Infrastructure → Mitigation + Adaptation
+  - Zone B — Hatchery / Water Management → Water & Marine Resources
+  - Zone C — Waste Processing → Circular Economy + Pollution Prevention
+  - Zone D — Coastal Seabed → Biodiversity & Ecosystems
+  - Zone E — Action Plan → Pull everything together for finance
+- Add one line: “This is how managers turn a regulation into a site audit.”
+
+Visual direction:
+- Create a stylized farm map or isometric site diagram.
+- Label each zone clearly with arrows and objective tags.
+- This slide should feel like a field manual or operations map.
+- Make it highly visual and intuitive.
 
 ---
-Slide 6: WHAT THIS LOOKS LIKE ON THE WATER (EXAMPLE 1)  
-Purpose: Show how the Taxonomy connects to real operations in Zone A and Zone B.  
-Headline: Example: cleaner energy and smarter water use  
-Feature 2 practical examples:
-1. Zone A – Energy & Infrastructure
-   - Replace diesel generators with solar-wind hybrid systems
-   - Install climate-resilient moorings and temperature monitoring
-   - Label clearly: Goal 1 = Climate Mitigation, Goal 2 = Climate Adaptation
-2. Zone B – Hatchery / Water Management
-   - Use a Recirculating Aquaculture System (RAS)
-   - Treat and reuse 95%+ of water
-   - Reduce freshwater demand and sea discharge
-   - Label clearly: Goal 3 = Water & Marine Resources  
-Visual: before/after style layout or illustrated facility map with icons and short captions.  
-Add one small “Why it matters” strip: “Lower fuel use. Lower risk. Better water performance.”  
-Use practical language only.
+Slide 6 — Zones A + B: “Examples That Count: Energy, Climate, Water”
+Purpose: Show what “substantial contribution” looks like in practice using familiar decisions.
+
+Content:
+- Headline: “Real upgrades, real Taxonomy value”
+- Section 1: Zone A — Energy & Infrastructure
+  - “Replace diesel generators with solar-wind hybrid systems”
+  - “Install stronger climate-resilient moorings”
+  - “Use temperature monitoring to prepare for heat stress”
+  - Tag clearly:
+    - Mitigation = lower emissions
+    - Adaptation = stronger resilience
+- Section 2: Zone B — Hatchery / Water
+  - “Install RAS to treat and reuse more than 95% of water”
+  - “Reduce freshwater demand”
+  - “Cut discharge to the sea”
+  - Tag clearly:
+    - Water objective = protect water and marine resources
+- Add a mini takeaway: “If you can show the upgrade works, you are not just improving operations — you are building a finance case.”
+
+Visual direction:
+- Two-column comparison with strong photography or realistic illustrations.
+- Use before/after or old system/new system visuals.
+- Include 2 or 3 large outcome numbers/icons.
+- Make the engineering choices look practical and credible.
 
 ---
-Slide 7: WHAT THIS LOOKS LIKE ON THE WATER (EXAMPLE 2)  
-Purpose: Show real operations in Zone C and Zone D.  
-Headline: Example: turn waste into value and protect the seabed  
-Feature 2 practical examples:
-1. Zone C – Waste Processing
-   - Capture sludge
-   - Convert it into biogas and agricultural fertilizer
-   - Achieve zero nutrient runoff with closed-loop systems
-   - Label clearly: Goal 4 = Circular Economy, Goal 5 = Pollution Prevention
-2. Zone D – Coastal Seabed
-   - Use benthic monitoring sensors
-   - Apply fallowing schedules
-   - Support regeneration of Posidonia oceanica seagrass meadows
-   - Label clearly: Goal 6 = Biodiversity & Ecosystems  
-Visual: side-by-side transformation stories with simple icons for sludge, biogas, fertilizer, sensors, seabed, and seagrass.  
-Add a small impact panel:
-- Carbon footprint down
-- Nutrient discharge near zero
-- Seagrass recovery up  
-Keep it operational and concrete.
+Slide 7 — Zones C + D: “Waste, Pollution, Seabed, Biodiversity”
+Purpose: Show circular economy and biodiversity in a way that feels operational, not abstract.
+
+Content:
+- Headline: “The strongest sustainability stories often come from what used to be waste”
+- Section 1: Zone C — Waste Processing
+  - “Capture sludge instead of letting nutrients escape”
+  - “Convert sludge into biogas and agricultural fertilizer”
+  - “Aim for zero nutrient runoff”
+  - Tag clearly:
+    - Circular economy = waste becomes a resource
+    - Pollution prevention = harmful discharge is controlled
+- Section 2: Zone D — Coastal Seabed
+  - “Use benthic monitoring sensors”
+  - “Apply fallowing schedules”
+  - “Allow Posidonia oceanica seagrass meadows to recover”
+  - Tag clearly:
+    - Biodiversity objective = protect and restore ecosystems
+- Add one short proof line: “This is where good environmental practice becomes measurable evidence.”
+
+Visual direction:
+- Use a layered vertical layout: above water operations / below water ecosystem.
+- Strong cross-section visual from cages to seabed.
+- Include one highlighted biodiversity metric and one pollution metric.
+- Distinct, memorable, and different from the previous slide.
 
 ---
-Slide 8: THE GOLDEN RULE (“DO NO SIGNIFICANT HARM”)  
-Purpose: Explain the key rule in the simplest possible way.  
-Headline: Do strong good in one area — and avoid damage in the others  
-Use one crystal-clear sentence:
-“To qualify, your farm must make a real positive contribution to at least one goal, while not seriously harming the other five.”  
-Then give a simple practical example:
-- Good: installing RAS to save water
-- Not acceptable if: it creates serious pollution, habitat damage, or other major harm elsewhere  
-Visual: very simple thumbs-up versus red-flag diagram, or green check around one goal and warning symbols around the others.  
-Include a short checklist:
-- Show clear benefit
-- Check for side effects
-- Keep evidence  
-This slide must feel easy, memorable, and non-technical.
+Slide 8 — The core rules: “How You Qualify Without Getting Lost”
+Purpose: Explain the Taxonomy logic simply: substantial contribution, do no significant harm, and evidence.
+
+Content:
+- Headline: “Three rules decide whether your project is Taxonomy-aligned”
+- Rule 1: “Make a real contribution to at least one objective”
+- Rule 2: “Do no significant harm to the other objectives”
+- Rule 3: “Keep evidence that proves it”
+- Add a plain-language example:
+  - “A new water recycling system helps the water objective.”
+  - “But if it drives huge energy use with no mitigation plan, it may fail the ‘do no significant harm’ test.”
+- Include a simple evidence checklist:
+  - Energy records
+  - Water reuse data
+  - Discharge and pollution results
+  - Biodiversity monitoring results
+  - Maintenance logs
+  - Supplier or technical certificates
+
+Visual direction:
+- Use a bold 3-step visual framework, like a decision gate or traffic-light system.
+- Add a simple example pathway from “good project idea” to “eligible project.”
+- Avoid legal detail; focus on operational logic.
 
 ---
-Slide 9: HOW DO I GET THE MONEY?  
-Purpose: Give a very clear funding pathway with no confusion.  
-Headline: The simple path from farm upgrade to funding  
-Build a clean 4-step or 5-step process graphic using arrows:
-1. Assess your farm  
-2. Document the evidence  
-3. Submit the application  
-4. Expert review / verification  
-5. Receive funding  
-For “Document the evidence,” include practical examples:
-- Energy bills
-- Water reuse records
-- Sensor data
-- Waste treatment logs
-- Biodiversity monitoring results
-For “Submit,” mention appropriate routes simply:
-- EMFAF
-- LIFE
-- Horizon Europe
-- EIB green finance channels  
-Add a small side note: “The better your evidence, the stronger your case.”  
-Visual style: process flow, clean and highly intuitive.  
-Avoid dense funding jargon.
+Slide 9 — The money path: “From Farm Audit to Funding”
+Purpose: Show the application process and remove fear of complexity.
+
+Content:
+- Headline: “How green funding actually works”
+- Show the 5-step process:
+  1. Assess compliance
+  2. Document evidence
+  3. Submit application
+  4. Expert verification
+  5. Receive funding
+- Under the process, include a practical manager’s checklist:
+  - “Identify your strongest zone first”
+  - “Match each upgrade to the right Taxonomy objective”
+  - “Gather proof before you apply”
+  - “Use clear numbers, not vague claims”
+  - “Be ready for external review”
+- Add a confidence-building line: “You do not need to know every regulation by heart. You need a solid project, the right data, and a clear story.”
+
+Visual direction:
+- Horizontal process timeline with clean icons and a confident, action-oriented feel.
+- Below it, a tactical checklist panel.
+- Consider adding subtle logos/text labels for EMFAF, LIFE, Horizon Europe, and EIB as destinations or funding routes.
 
 ---
-Slide 10: YOUR NEXT STEPS  
-Purpose: End with clear action and confidence.  
-Headline: What to do tomorrow morning  
-Create a bold checklist:
-1. Run a quick self-assessment of your farm
-2. Identify one strong Taxonomy area already on site
-3. Start tracking one simple environmental metric
-4. Collect basic proof: bills, logs, photos, sensor data
-5. Talk to your financial advisor, cooperative, or project support contact
-6. Build your first Taxonomy Action Plan  
-Include a short, motivating closing statement:
-“You do not need to change everything at once. Start with one measurable improvement and prove it.”  
-Add a strong closing quote in large text:
-“Sustainable farms will not just survive the future. They will finance it.”  
-Visual: confident farm manager reviewing a simple action plan with ocean/farm backdrop.  
-Optional footer feel: CircuTech Module 4 | From compliance to opportunity
+Slide 10 — Final synthesis and action: “Your 30-Day Taxonomy Action Plan”
+Purpose: End with clarity, momentum, and immediate next steps. This slide must feel different from all previous slides and act as a call to action.
 
-Additional content requirements across the deck:
-- Mention that the final goal is to link farm decisions into a verified Taxonomy Action Plan that can be presented to banks or investors.
-- Reinforce that this creates environmental, economic, and social value:
-  - Environmental: carbon footprint reduced, zero nutrient discharge, seagrass recovery
-  - Economic: green financing secured, lower operating costs
-  - Social: green jobs, stronger community trust
-- Keep all examples specific to aquaculture and fishing operations, especially Mediterranean finfish farming
-- Use visual storytelling and operational realism, not generic sustainability imagery
-- Ensure every slide answers a practical question a farm manager would ask
+Content:
+- Headline: “Start small. Prove value. Build your funding case.”
+- Include a 30-day action plan:
+  - Week 1: “Walk the site and map your farm into Zones A–E”
+  - Week 2: “Pick 1–2 upgrades with the strongest environmental and business value”
+  - Week 3: “Collect baseline data: energy, water, waste, seabed”
+  - Week 4: “Draft a one-page Taxonomy Action Plan for funders or lenders”
+- Add a final impact panel using the case study results:
+  - “40% lower carbon footprint”
+  - “Zero nutrient discharge”
+  - “15% increase in seagrass density”
+  - “Lower energy costs”
+  - “Green financing secured”
+  - “More trust from community and investors”
+- End with a strong closing line: “The EU Taxonomy is not about making your job harder. It is about proving that good aquaculture deserves capital.”
 
-Important final instruction:
-Generate the full presentation content slide by slide with concise on-slide text, suggested visual composition, and polished boardroom-ready phrasing. Keep each slide clean and presentation-ready. Ensure there are EXACTLY 10 slides and that each slide is separated by --- on its own line.
+Visual direction:
+- Commanding final slide with a bold action-plan layout on one side and an impact scorecard on the other.
+- Make the metrics large and memorable.
+- End on confidence, pride, and forward motion.
+- This should feel like a professional briefing conclusion, not a summary repeat.
