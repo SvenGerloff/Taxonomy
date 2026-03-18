@@ -1,120 +1,123 @@
 # Result for Step: 03_Gamma_Prompt
 
-Schreiben für: Seasoned Aquaculture and Fishing Professionals (VET Level). These are proud, hands-on facility managers, vessel operators, and fish farmers who are highly skilled in their technical work but have ZERO background in EU policy, ESG frameworks, or green finance. They are skeptical of bureaucracy, respect practical evidence, and want clear links to daily operations, risk control, and funding access.
+Schreiben für: Seasoned Aquaculture and Fishing Professionals (VET Level). These are proud, hands-on facility managers, vessel operators, and fish farmers who are highly skilled in their technical work but have ZERO background in EU policy, ESG frameworks, or green finance. They are skeptical of bureaucracy, respect practical facts, and care about operational impact, cost, risk, and proof.
 
-Ton: Objective, highly educational, empowering, clear, professional, and jargon-free American English. Do not sound promotional. Do not “sell” sustainability. Explain the rules, the logic, and the practical use plainly. Avoid hype, buzzwords, management clichés, and corporate phrasing.
+Ton: Objective, highly educational, empowering, clear, professional, and jargon-free American English. Do not sound promotional. Do not “sell” the EU Taxonomy. Present it as a practical rulebook that affects funding, upgrades, and compliance. Use plain language, short sentences, and concrete examples. Avoid hype, clichés, business jargon, and abstract policy language.
 
-Create EXACTLY 10 slides. One core idea per slide. Max 30–40 words per slide body. Bullet-first writing. Short headline plus 3–4 bullets maximum. Keep wording plain enough for first-time learners. Use realistic aquaculture examples, not abstract policy language.
+Create EXACTLY 10 slides. One core idea per slide. Max 30–40 words per slide total. Bullet-first writing. Minimal text. Ultra-clear, punchy, easy to scan. No dense paragraphs. Every slide must teach one practical takeaway. Assume zero prior knowledge.
 
-Design constraints:
-- Use a clean, credible visual style: deep ocean blue, teal, slate, white, muted green accents.
-- Prefer realistic aquaculture visuals, site diagrams, icons, and simple infographics.
-- Do NOT use generic stock-photo people shaking hands, glowing globe art, futuristic AI imagery, or cliché sustainability symbols.
-- Favor facility-zone diagrams, process flows, before/after comparisons, evidence checklists, and compliance maps.
-- Make slides feel practical, supervisory, and field-relevant.
-- Include subtle visual references to 5 farm zones: Energy & Infrastructure, Hatchery, Waste Processing, Coastal Seabed, Action Plan.
-- Use plain labels for any regulation terms. If a technical term appears, explain it in simple words on the same slide.
+Design style: realistic aquaculture operations, clean infographic layout, deep ocean blues/sea greens, technical but human, sharp diagrams, simple icons, labeled process visuals. No generic stock AI people shaking hands, no futuristic fake control rooms, no glowing globe clichés, no corporate stock imagery. Prefer realistic hatchery, cage farm, pumps, pipes, sensors, moorings, sludge tanks, seabed maps, and evidence checklists.
 
-Slide 1: Start from their reality — “Why this matters on a real farm”
-- Headline should connect the Taxonomy to daily decisions: power, water, waste, storms, seabed.
-- Show that this is not about politics; it is a rulebook used by banks, grant programs, and investors to judge if an upgrade is truly sustainable.
-- Visual: map of a real aquaculture facility with 5 labeled zones A–E.
+Base the deck closely on this learning guide content: explain what the EU Taxonomy is, why it exists, the six environmental objectives, substantial contribution, Do No Significant Harm, minimum safeguards, technical proof, evidence collection, funding pathway, and practical aquaculture examples such as hybrid solar-wind power, climate-resilient moorings, RAS reusing 95%+ hatchery water, sludge to biogas/fertilizer, zero-runoff controls, benthic monitoring, fallowing, and Posidonia oceanica protection.
 
----
+Use only 2–3 highly specific farm examples repeatedly across the deck so the audience can follow them:
+1) Replacing diesel generators with a hybrid solar-wind system plus storm-resilient moorings and temperature monitoring.
+2) Installing a RAS hatchery that reuses 95%+ of water and reduces discharge.
+3) Capturing sludge for biogas/fertilizer while preventing nutrient runoff.
+Optionally mention benthic monitoring and fallowing near Posidonia oceanica as the biodiversity example.
 
-Slide 2: “What the EU Taxonomy is”
-- Define it simply: the EU’s common classification system for environmentally sustainable activities.
-- Explain its purpose: one shared rulebook to reduce greenwashing and compare projects fairly.
-- State that it does not replace farm management; it helps prove environmental performance with evidence.
-- Visual: simple “activity → proof → classification” flow.
+Do not organize the slides around abstract “zones.” Use concrete farm upgrades and daily operations only.
+
+Slide 1 — Hook: “What this means on a real farm”
+Start from their reality: fuel bills, storm risk, water use, sludge disposal, investor questions.
+Message: the EU Taxonomy is not biology or farm management; it is the rulebook used to judge if upgrades are truly sustainable.
+Visual: split-screen of diesel generator, hatchery water loop, sludge tank, seabed monitoring.
 
 ---
-
-Slide 3: “Why operators should care”
-- Focus on practical consequences, not ideology.
-- Explain that aligned projects are easier to explain in grant and loan applications.
-- Mention concrete funding routes: EMFAF, LIFE, Horizon Europe, EIB green loans.
-- Include the funding pathway: Assess Compliance → Document Evidence → Submit → Verify → Funding.
-- Visual: clean 5-step application timeline.
+Slide 2 — What the EU Taxonomy is
+Define it simply: the EU’s shared classification system for environmentally sustainable activities.
+Explain what problem it solves: inconsistent green claims and greenwashing.
+Message: not a label by opinion; it is a claim backed by evidence.
+Visual: “claim” vs “proof” comparison graphic.
 
 ---
-
-Slide 4: “The 6 environmental objectives — plain language”
-- Present all 6 objectives in a simple 2-column grid.
-- Use short, relatable wording:
-  - Cut emissions
-  - Prepare for climate risks
-  - Protect water and marine resources
-  - Use waste as a resource
-  - Prevent pollution
-  - Protect habitats and ecosystems
-- Visual: icon grid, no dense text.
+Slide 3 — Why it matters in practice
+Show practical relevance without sales language:
+- affects grants, loans, investor questions
+- can influence EMFAF, LIFE, Horizon Europe, EIB green loans
+- small farms may feel it indirectly through applications and supply chains
+Visual: simple pathway from farm upgrade to funding review.
 
 ---
-
-Slide 5: “Zone A — Energy & Infrastructure”
-- Match Zone A to 2 objectives: Climate Change Mitigation and Climate Change Adaptation.
-- Use concrete examples:
-  - Solar-wind hybrid replacing diesel
-  - Stronger moorings
-  - Temperature monitoring
-- Clarify the difference:
-  - Mitigation = cut emissions
-  - Adaptation = prepare for storms and heat
-- Visual: split panel “cut emissions / reduce climate risk”.
-
----
-
-Slide 6: “Zone B — Hatchery water management”
-- Match Zone B to Sustainable Use and Protection of Water and Marine Resources.
-- Use one strong example: RAS reuses 95%+ of water.
-- Explain practical proof: water reuse rate, abstraction records, discharge tests, treatment logs.
-- Show direct benefit: less freshwater use, less discharge, tighter control.
-- Visual: circular water loop diagram with treatment stages.
+Slide 4 — The 6 environmental objectives, made simple
+List all six in very plain language:
+- cut emissions
+- prepare for climate risks
+- protect water and marine resources
+- reduce waste through reuse/recovery
+- prevent pollution
+- protect biodiversity
+Do not overload with definitions.
+Visual: six-icon wheel with aquaculture-specific icons.
 
 ---
-
-Slide 7: “Zone C — Waste processing”
-- Match Zone C to Circular Economy and Pollution Prevention and Control.
-- Use concrete examples:
-  - Sludge captured
-  - Converted to biogas or fertilizer
-  - Closed-loop design prevents nutrient runoff
-- Clarify that circularity and pollution control are linked but not the same.
-- Visual: “waste becomes resource” process graphic with runoff blocked.
+Slide 5 — Example 1: diesel to hybrid power
+Use one concrete example to show multiple objectives:
+- solar-wind hybrid cuts diesel use = climate mitigation
+- stronger moorings + temperature alerts = climate adaptation
+- must not damage habitat or create new pollution = DNSH
+Visual: annotated farm energy system diagram.
 
 ---
-
-Slide 8: “Zone D — Seabed and biodiversity”
-- Match Zone D to Protection and Restoration of Biodiversity and Ecosystems.
-- Use concrete examples:
-  - Benthic sensors
-  - Fallowing schedule
-  - Posidonia oceanica protection
-- Explain practical proof: seabed monitoring, habitat maps, recovery checks, buffer distances.
-- Visual: seabed cross-section under cages with monitoring points.
+Slide 6 — Example 2: hatchery RAS
+Use one concrete example to explain water objective:
+- RAS reuses 95%+ of hatchery water
+- lowers freshwater demand
+- reduces discharge to sea
+- needs measured proof: reuse %, discharge quality, maintenance logs
+Visual: clean closed-loop water cycle diagram.
 
 ---
-
-Slide 9: “The 4 rules for Taxonomy alignment”
-- Present the rules clearly and simply:
-  1. Substantially contribute to at least one objective
-  2. Do No Significant Harm to the others
-  3. Meet minimum social safeguards
-  4. Meet technical screening criteria where required
-- Explain “Do No Significant Harm” in plain English: one improvement must not create a different environmental problem.
-- Visual: 4-rule checklist card.
+Slide 7 — Example 3: sludge to value, without pollution
+Show circular economy + pollution prevention together:
+- capture sludge
+- convert to biogas or fertilizer
+- stop nutrient runoff with closed-loop containment
+- circular only counts if the process is controlled and traceable
+Visual: sludge flow from tank to energy/fertilizer with containment barrier.
 
 ---
+Slide 8 — The key rules
+Explain alignment simply:
+- substantial contribution to at least one objective
+- do no significant harm to the others
+- meet minimum social safeguards
+- follow technical screening criteria where relevant
+Keep wording extremely plain. Define DNSH in one short line.
+Visual: 4-part checklist card.
 
-Slide 10: “What to do next on your farm”
-- Give immediate, actionable steps:
-  - Map your farm by zones A–E
-  - Match each activity to one objective
-  - Gather evidence: fuel logs, water data, waste records, seabed reports
-  - Build a simple compliance matrix: activity / objective / proof / responsible person / review date
-  - Use that file for grant or loan applications
-- End with a calm, factual message: the Taxonomy is not a label you claim; it is a case you prove.
-- Visual: one-page action plan template preview.
+---
+Slide 9 — How to prove it
+Show objective evidence, not promises:
+- fuel logs, kWh data
+- water reuse and discharge records
+- sludge treatment records
+- benthic or habitat monitoring
+- chemical and medicine logs
+Message: “If you cannot show it, you cannot claim it.”
+Visual: evidence matrix or audit-ready checklist.
 
-Make the full presentation feel like a practical briefing for experienced operators, not a policy lecture. Keep every slide concise, concrete, and clearly tied to real aquaculture operations.
+---
+Slide 10 — What to do next
+End with immediate action steps:
+1. Pick one upgrade
+2. Match it to the right objective
+3. Gather baseline data
+4. Check DNSH risks
+5. Build an evidence file
+6. Apply: Assess → Document → Submit → Verify → Funding
+Visual: simple 6-step action roadmap.
+
+Make the slide titles short, direct, and practical. Suggested title style:
+- What this means on a real farm
+- The rulebook in plain English
+- Why it matters
+- The 6 objectives
+- Example: power and storm resilience
+- Example: hatchery water reuse
+- Example: sludge to value
+- The 4 alignment rules
+- Proof beats claims
+- Your next 6 steps
+
+Add speaker-note-ready microcopy only if Gamma supports it, but keep on-slide text within the strict word limit. Avoid repetition. Ensure each slide feels distinct and builds logically from “what it is” to “why it matters” to “examples” to “rules” to “next steps.”

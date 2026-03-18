@@ -10,6 +10,8 @@
 
 # Result for Step: 02_Learning_Guide
 
+# Result for Step: 02_Learning_Guide
+
 ## 1. Comprehensive Knowledge Requirements
 
 ### 1.1 What is the EU Taxonomy?
@@ -216,6 +218,7 @@ The learner is asked to reduce disposal costs and improve environmental performa
 
 ### Scenario 4: Responding to Biodiversity Risk at a Coastal Production Site
 The learner receives monitoring results showing rising benthic stress near cages and possible pressure on nearby Posidonia oceanica habitat. They must independently interpret the environmental data, revise fallowing schedules, recommend operational adjustments, organise further monitoring, and report the situation in a way that supports both ecological recovery and continued compliance. This includes balancing production pressure with habitat protection, documenting actions taken, and demonstrating that the farm is managing biodiversity risks proactively rather than reactively.
+
 
 
 
