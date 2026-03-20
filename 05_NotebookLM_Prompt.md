@@ -1,6 +1,4 @@
-# Result for Step: 05_NotebookLM_Prompt
-
-PROMPT FOR NOTEBOOKLM
+# NotebookLM Prompt
 
 Create a 10–12 minute audio Deep Dive in a conversational, co-hosted podcast style using the source material below.
 
