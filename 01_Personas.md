@@ -1,4 +1,4 @@
-# Result for Step: 01_Personas
+# Personas
 
 [
   {
