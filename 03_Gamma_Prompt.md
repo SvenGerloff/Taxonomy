@@ -1,14 +1,7 @@
-# Result for Step: 03_Gamma_Prompt
+# Gamma Prompt
 
-Schreiben für: Seasoned Aquaculture and Fishing Professionals (VET Level)  
-Ton: Objective, highly educational, empowering, clear, professional, and jargon-free (American English)
-
-# EU Taxonomy for Aquaculture
-- A practical rulebook for proving an investment is environmentally sustainable
-- Used by banks, grant programs, and investors
-- Not about slogans
-- About evidence
-[Image suggestion: Aquaculture manager reviewing farm data]
+Writting for: Seasoned Aquaculture and Fishing Professionals (VET Level)  
+Language: Objective, highly educational, empowering, clear, professional, and jargon-free (American English)
 
 ---
 
