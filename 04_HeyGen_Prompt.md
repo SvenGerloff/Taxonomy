@@ -1,4 +1,4 @@
-# Result for Step: 04_HeyGen_Prompt
+# HeyGen Prompt
 
 Create a 50-second AI avatar video in a high-energy, cinematic, punchy style for a professional VET training module. The avatar is a confident, modern aquaculture industry expert, not a professor. Business-casual attire. Clean neutral or ocean-inspired gradient background. Delivery style: TED Talk x Netflix x LinkedIn viral video. Tone: urgent, inspiring, direct. Use strong eye contact, subtle hand gestures, and dynamic pacing. 
 
