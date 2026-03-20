@@ -1,19 +1,3 @@
-# Result for Step: 02_Learning_Guide
-
-# Result for Step: 02_Learning_Guide
-
-# Result for Step: 02_Learning_Guide
-
-# Result for Step: 02_Learning_Guide
-
-# Result for Step: 02_Learning_Guide
-
-# Result for Step: 02_Learning_Guide
-
-# Result for Step: 02_Learning_Guide
-
-# Result for Step: 02_Learning_Guide
-
 ## 1. Comprehensive Knowledge Requirements
 
 ### 1.1 What is the EU Taxonomy?
